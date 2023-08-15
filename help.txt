@@ -1,0 +1,6 @@
+password:
+
+Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters Ex.(Abcd1234)
+
+
+after user registation login to admin (admin admin) activate tha user
